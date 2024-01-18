@@ -1,9 +1,9 @@
 [![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 <h1 align="center" >Hi 👋, I'm Kanishk</h1>
-<!-- <h3 align="center">When I'm not pushing pixels, I'm probably debating the merits of tabs vs spaces.</h3> -->
+<h3 align="center">Turning caffeine into code , one div at a time.</h3>
 
 <div align="center">
-<img align="center" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" alt="coding">
+<!-- <img align="center" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" alt="coding"> -->
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkk-1&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkk-1" /> </p> -->
