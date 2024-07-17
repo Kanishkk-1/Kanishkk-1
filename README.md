@@ -58,11 +58,8 @@
  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">  
 <img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="TailWindCSS" width="full" height="80"/> </a> 
 
-<h3>Tools:</h3>
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
- <h3>Stats:</h3>
+[![](https://visitcount.itsvg.in/api?id=Vilen23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkk-1&show_icons=true&locale=en&layout=compact" alt="kanishkk-1" /></p>
 
