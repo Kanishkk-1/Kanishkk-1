@@ -58,8 +58,10 @@
  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">  
 <img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="TailWindCSS" width="full" height="80"/> </a> 
 <br>
+<br>
 
-[![](https://visitcount.itsvg.in/api?id=Kanishkk-1&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kanishkk-1&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkk-1&show_icons=true&locale=en&layout=compact" alt="kanishkk-1" /></p>
 
