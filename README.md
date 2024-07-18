@@ -63,8 +63,6 @@
 [![](https://visitcount.itsvg.in/api?id=Kanishkk-1&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkk-1&show_icons=true&locale=en&layout=compact" alt="kanishkk-1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkk-1&" alt="kanishkk-1" /></p>
  </div>
 
