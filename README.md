@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkk-1" alt="kanishkk-1" /></a> </p> -->
 
-- 📫Reach me at **kanishka.ranjan.9@gmail.com**
+- 📫Reach me at **kanishka.ranjan.9@gmail.com** , **https://kanishk-chi.vercel.app/** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
