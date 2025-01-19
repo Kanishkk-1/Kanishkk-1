@@ -32,6 +32,9 @@
 
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="c" width="full" height="80"/> </a> 
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="full" height="80"/></a> 
+        
  <br>
  <h3>Development:</h3>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -57,7 +60,16 @@
 
  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">  
 <img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="TailWindCSS" width="full" height="80"/> </a> 
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  width="full" height="80"/> </a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="full" height="80"/></a>
+
+          
 <br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkk-1&theme=tokyo-night"/>
+
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Kanishkk-1&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
