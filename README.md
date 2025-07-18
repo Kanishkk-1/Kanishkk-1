@@ -8,6 +8,8 @@ My code is actually pretty clean (Marie Kondo would approve). I've got this grow
 
 Warning: May contain traces of actual competence.
 
+I'm mostly available on kanishka.ranjan.9@gmail.com
+
 <div align="center">
 <!-- <img align="center" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" alt="coding"> -->
 </div>
