@@ -22,6 +22,10 @@ I'm mostly available on kanishka.ranjan.9@gmail.com
 
 ![Visitor Count](https://count.getloli.com/get/@Kanishkk-1?theme=booru-lewd)
 
-
+<div display = "flex">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sooraj1002&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkk-1&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
  <!-- ![a](https://spotify-recently-played-readme.vercel.app/api?user=phgozba4jodlx0mkwrhk8x73k&count=4) 
