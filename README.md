@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
-Hey, I'm Kanishk. This is my digital dumping ground where I throw random thoughts and occasionally something useful surfaces.
+Hey, I'm Kanishk. This is my digital dumping ground where I throw random thoughts and occasionally something useful surfaces
 
 I survive on way too much coffee and spite (mostly spite), plus whatever energy drink is available. I have this weird obsession with collecting bugs in my code honestly at this point it's like rare pokemon cards but significantly more frustrating. Also GUIs and I have serious beef.
 
