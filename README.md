@@ -4,7 +4,7 @@ Hey, I'm Kanishk. This is my digital dumping ground where I throw random thought
 
 I survive on way too much coffee and spite (mostly spite), plus whatever energy drink is available. I have this weird obsession with collecting bugs in my code honestly at this point it's like rare pokemon cards but significantly more frustrating. Also GUIs and I have serious beef.
 
-My code is actually pretty clean (Marie Kondo would approve). I've got this growing pile of books that judge me silently while I put on whatever music matches my current chaos level and pretend I'm totally nailing this whole "productivity" thing. I'm not big on talking, so coding works better for me and when I need a screen break, I either go for a ride or watch whatever has me hooked.
+My code is actually pretty clean (Marie Kondo would approve). I've got this growing pile of books that judge me silently while I put on whatever music matches my current chaos level and pretend I'm totally nailing this whole "productivity" thing. I'm not big on talking, so coding works better for me and when I need a screen break, I either go for a ride, run or a workout or watch or play a pc game (dont judge me i want to do it all) whatever has me hooked.
 
 Warning: May contain traces of actual competence.
 
